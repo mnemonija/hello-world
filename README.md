@@ -21,3 +21,8 @@ git checkout review
 git branch # shows that i am working inside review branch).
 So now if i commit changes and push to github, i should be able to 
 do a review of the changes before merging.
+
+Worked as expected.
+git checkout -b aftermath
+Adding the final comments before submitting back to the github.
+Next question is dual ownership of the repo.
