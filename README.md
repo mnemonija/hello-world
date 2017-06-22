@@ -14,3 +14,10 @@ Making first remote change.
 git commit -a
 git push origin master (after entering usename/password)
 merged the changes with the master verstion in github.
+
+git branch
+git branch review
+git checkout review
+git branch # shows that i am working inside review branch).
+So now if i commit changes and push to github, i should be able to 
+do a review of the changes before merging.
