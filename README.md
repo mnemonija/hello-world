@@ -11,3 +11,6 @@ git branch nikola-featureX
 git push origin nikola-featureX
 
 Making first remote change.
+git commit -a
+git push origin master (after entering usename/password)
+merged the changes with the master verstion in github.
