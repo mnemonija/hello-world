@@ -1,0 +1,6 @@
+bazel-*
+third_party
+tools
+*.pyc
+*.pyo
+*~
